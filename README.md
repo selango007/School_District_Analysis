@@ -16,14 +16,14 @@ E. The Reding Passing % reduced by 0.3% (reduced from 86.0 to 85.7)
 F. The Overall Passing % reduced by 0.1% *reduced from 65% to 64.9%)
 
 # 2.2 How is the school summary affected?
-Referring to the per_school_summary_df:
-
-A. The Average Math Score for THS before exclusion = 83.41 and after exclusion = 83.35. The average score for math is reduced by 0.06
-B The Average Reading Score for THS before exclusion = 83.84 and after exclusion = 83.89. The average score for reading is increased by 0.05
-C. There is a huge impact on the Math Passing %, Reading Passing % and Overall Passing %
-                        Math Passing %          Reading Passing %       Overall Passing %
-        Before Change   93.27                   97.30                   90.94
-        After Change    66.91                   69.66                   65.07
+Below are the changes in the school summary.
+A. Number of students is reduced to 1174 after excluding 9th graders
+B. Total Students Passing Math after excluding 9th graders is reduced to 1094
+C. Total Students Passing Reading after excluding 9th graders is reduced to 1139
+D. Total Students Passing both Math and Reading after excluding 9th Graders is reduced to 1064
+E. Passing Math % after excluding 9th graders is 93.18
+F. Passing Reading % after excluding 9th graders is 97.01
+G. Overall Passing % in THS after excluding 9th graders is 90.63
 
 # 2.3 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 A. Before the change, THS was at the TOP of the list in terms of overall passing % (97.30%) when compared to other schools. 
